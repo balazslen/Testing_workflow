@@ -1,3 +1,20 @@
 // testing this file
 
 // Testing the rule writing with GitHub
+
+
+// new testing after merge complete
+
+'
+COOL
+
+
+rule'
+
+IF hrvTagIncludes ("AF Group XT")
+THEN
+{
+	setHrvTag ("testing")
+}
+
+return()
