@@ -17,4 +17,14 @@ THEN
 	setHrvTag ("testing")
 }
 
+IF hrvTagIncludes ("AF Group N1a OAC eligible not on OAC")
+
+
+IF hrvTagIncludes ("Faraz and Balazs are Awesome")
+
+THEN
+{
+	setReveal ("AF Group Awesome")
+}
+
 return()
