@@ -31,6 +31,7 @@ THEN
 // This is a test of tracking features
 
 
+setHrvTag ("test")
 
 
 
